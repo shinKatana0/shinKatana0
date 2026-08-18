@@ -31,7 +31,7 @@ I'm currently exploring the Japan and US tech scenes for a senior engineering le
 
 - LinkedIn: [linkedin.com/in/vladimir-karataev-](https://www.linkedin.com/in/vladimir-karataev-)
 - Email: v.p.karataev@gmail.com
-- Location: Europe (nomadic) · open to relocation to Japan or the US
+- Location: Europe (nomadic) · open to relocation to Japan or the Europe
 - Languages: English (working) · Russian (native) · Japanese (learning, JLPT N4) · basic Spanish
 
 ---
