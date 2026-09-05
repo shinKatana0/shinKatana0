@@ -4,7 +4,7 @@
 
 I've spent 16 years in software, the last 8 of them running engineering at telecom scale — always-on, nationwide infrastructure where downtime is measured in headlines. My background is development, and I never stopped: the repositories below are things I built because I had the problem myself and wanted it solved properly.
 
-I'm currently exploring the Japan and US tech scenes for a senior engineering leadership role — CTO, VP / Head of Engineering, or Director-level ownership of a platform or product organisation. Open to conversations — see contacts below.
+I'm currently exploring the Japan and EU tech scenes for a senior engineering leadership role — CTO, VP / Head of Engineering, or Director-level ownership of a platform or product organisation. Open to conversations — see contacts below.
 
 ---
 
